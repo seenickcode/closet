@@ -1,1 +1,1 @@
-black, white, gray
+black, white, red
