@@ -1,1 +1,1 @@
-A project to help us learn Git.
+This AWESOME project to help us learn Git.
